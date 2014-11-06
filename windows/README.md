@@ -1,0 +1,1 @@
+This is the all the command line we will put on windows, organized by the command name or task. 
